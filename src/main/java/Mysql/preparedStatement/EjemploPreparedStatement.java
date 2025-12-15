@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class EjemploPreparedStatement {
 
-    private static Connection conexion = Mysql.Utilidades.MySQL.establecerConexion();
+    private static Connection conexion = Mysql.utilidades.MySQL.establecerConexion();
 
     public static void main(String[] args) {
 

@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DatabaseMetaData;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import Mysql.Utilidades.MySQL;
+import Mysql.utilidades.MySQL;
 
 public class EjemploDatabaseMetaData {
 

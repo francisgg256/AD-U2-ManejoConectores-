@@ -1,7 +1,7 @@
 package Mysql.resultsetmetadata;
 
 import java.sql.*;
-import Mysql.Utilidades.MySQL;
+import Mysql.utilidades.MySQL;
 
 public class EjemploResultSetMetaData {
     public static Connection conexion = MySQL.establecerConexion();

@@ -1,7 +1,7 @@
 package Mysql.callablestatement;
 
 import java.sql.*;
-import Mysql.Utilidades.MySQL;
+import Mysql.utilidades.MySQL;
 
 
 public class EjemploCallableStatement {

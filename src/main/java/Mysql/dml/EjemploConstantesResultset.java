@@ -1,6 +1,6 @@
 package Mysql.dml;
 
-import Mysql.Utilidades.MySQL;
+import Mysql.utilidades.MySQL;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
